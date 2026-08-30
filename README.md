@@ -15,3 +15,4 @@
 ## Azure deployment
 Frontend: Azure Static Web Apps, App location `/frontend`.
 Backend: Azure App Service, Python + Flask.
+  
